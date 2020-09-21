@@ -60,6 +60,3 @@ for(i=0;i<no_of_students;i++)
  return 0;
  }
  
-
-    return 0;
-}
